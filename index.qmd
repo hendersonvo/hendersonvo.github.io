@@ -7,3 +7,5 @@ This is the landing page
 Picture of me goes here
 
 Bio goes here (education, work, etc.)
+
+Sample text (post repo name change)
