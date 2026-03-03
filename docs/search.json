@@ -11,14 +11,14 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "3 photos of me throughout this page\n\nsection 1\n\n\nsection 2\n\n\nsection 3"
+    "text": "3 photos of me throughout this page\nmore sample text\n\nsection 1\n\n\nsection 2\n\n\nsection 3"
   },
   {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "CV",
     "section": "",
-    "text": "here is my cv\noutline cv on page, have cv available for viewing as .pdf"
+    "text": "here is my cv\noutline cv on page, have cv available for viewing as .pdf\nmore sample text"
   },
   {
     "objectID": "flex.html",
@@ -32,6 +32,6 @@
     "href": "projectpage.html",
     "title": "Projects",
     "section": "",
-    "text": "My projects\nat least one post with code, its output, and writing about what you’re doing and why\nat least one post with project or paper description (from a job, research project, class)"
+    "text": "My projects\nat least one post with code, its output, and writing about what you’re doing and why\nat least one post with project or paper description (from a job, research project, class)\nmore sample text"
   }
 ]

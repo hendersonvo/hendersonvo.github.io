@@ -10,10 +10,11 @@ about:
       href: https://github.com/hendersonvo
     - text: Email
       href: mailto:hendersonvo@ucsb.edu
-    
 ---
 
 3 photos of me throughout this page
+
+more sample text
 
 # section 1
 
