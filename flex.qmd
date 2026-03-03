@@ -1,6 +1,8 @@
 ---
 title: "My travels"
+toc: false
 ---
 
-Placeholder
+Placeholder (free for all)
 
+# include sections

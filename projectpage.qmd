@@ -3,3 +3,7 @@ title: "Projects"
 ---
 
 My projects
+
+at least one post with code, its output, and writing about what you’re doing and why
+
+at least one post with project or paper description (from a job, research project, class)

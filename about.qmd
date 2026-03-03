@@ -1,9 +1,22 @@
 ---
 title: "About"
+toc: false
+about:
+  template: jolla
+  links: 
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/henderson-vo-a1b712275/
+    - text: GitHub
+      href: https://github.com/hendersonvo
+    - text: Email
+      href: mailto:hendersonvo@ucsb.edu
+    
 ---
 
-About this site
+3 photos of me throughout this page
 
-```{r}
-1 + 1
-```
+# section 1
+
+# section 2
+
+# section 3

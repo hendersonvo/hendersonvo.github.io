@@ -10,8 +10,8 @@ website:
         text: Home
       - about.qmd
       - cv.qmd
-      - flex.qmd
       - projectpage.qmd
+      - flex.qmd
 
 format:
   html:

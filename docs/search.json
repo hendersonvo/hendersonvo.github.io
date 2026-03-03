@@ -4,34 +4,34 @@
     "href": "index.html",
     "title": "Henderson Vo",
     "section": "",
-    "text": "This is the landing page"
+    "text": "This is the landing page\nPicture of me goes here\nBio goes here (education, work, etc.)"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "3 photos of me throughout this page\n\nsection 1\n\n\nsection 2\n\n\nsection 3"
   },
   {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "CV",
     "section": "",
-    "text": "here is my cv"
+    "text": "here is my cv\noutline cv on page, have cv available for viewing as .pdf"
   },
   {
     "objectID": "flex.html",
     "href": "flex.html",
     "title": "My travels",
     "section": "",
-    "text": "Placeholder"
+    "text": "Placeholder (free for all)\n\ninclude sections"
   },
   {
     "objectID": "projectpage.html",
     "href": "projectpage.html",
     "title": "Projects",
     "section": "",
-    "text": "My projects"
+    "text": "My projects\nat least one post with code, its output, and writing about what you’re doing and why\nat least one post with project or paper description (from a job, research project, class)"
   }
 ]
