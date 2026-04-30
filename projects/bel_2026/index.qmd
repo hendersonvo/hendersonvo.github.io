@@ -1,0 +1,13 @@
+---
+title: "Modeling Outcomes of Community Forestry in India"
+description: Bren Environmental Leadership Project 2026
+date: 2026-06-22
+format: html
+image: india_forest.avif
+lightbox: 
+  css-class: "styles"
+categories: 
+
+---
+
+*Coming soon!*
