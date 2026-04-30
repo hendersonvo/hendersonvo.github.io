@@ -19,13 +19,6 @@ I wanted to know how likely it is that a player would win if they always choose 
 
 Learn more on my [GitHub](https://github.com/hendersonvo/monte-carlo_card-sim).
 
-```{r}
-#| echo: false
-#| message: false
-#| warning: false
-library(reticulate)
-```
-
 ```{python}
 #| eval: false
 #| code-fold: true
