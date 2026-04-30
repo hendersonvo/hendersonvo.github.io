@@ -5,6 +5,8 @@ listing:
   contents: projects
   type: grid
   categories: true
+  sort: 
+    - "date desc"
 lightbox: 
   css-class: "styles"
 ---
