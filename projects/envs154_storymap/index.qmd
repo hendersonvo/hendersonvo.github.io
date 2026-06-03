@@ -1,0 +1,11 @@
+---
+title: "Predicting Vegetation Nativity in Yosemite National Park"
+description: ENVS 154 Storymap
+date: 2026-06-07
+format: html
+lightbox: 
+  css-class: "styles"
+categories: 
+---
+
+*Coming soon!*

@@ -7,7 +7,6 @@ image: india_forest.avif
 lightbox: 
   css-class: "styles"
 categories: 
-
 ---
 
 *Coming soon!*
