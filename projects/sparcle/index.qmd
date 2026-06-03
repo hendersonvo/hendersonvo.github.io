@@ -1,0 +1,14 @@
+---
+title: "Spatial Planning for Climate Change"
+description: "Arnhold Environmental Fellowship 2026: SPARCLE"
+date: 2026-06-22
+format: html
+image: sparcle_thumbnail.png
+lightbox: 
+  css-class: "styles"
+categories: 
+---
+
+*Coming soon!*
+
+Learn more about the project [here](https://emlab.ucsb.edu/projects/spatial-planning-climate-change-land-use-conservation-agriculture-and-energy).
