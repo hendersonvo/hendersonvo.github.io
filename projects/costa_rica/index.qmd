@@ -25,7 +25,7 @@ In August 2025, I had the most fortunate opportunity to take a field course in P
 :::
 
 ::: figure
-![Taking sea turtle measurement requires a team effort!](../../images/turtle_measure.jpg){.regular-hover}
+![Taking sea turtle measurements requires a team effort!](../../images/turtle_measure.jpg){.regular-hover}
 :::
 :::::
 
