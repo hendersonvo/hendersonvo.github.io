@@ -7,6 +7,10 @@ image: envs154_thumbnail.png
 lightbox: 
   css-class: "styles"
 categories: 
+  - GIS
+  - Data Visualization
+  - Modeling and Simulation
+  - Final Project
 ---
 
 In the Spring 2026 quarter, I took ENVS 154: GIS for Environmental Applications, which ended with a group project addressing an environmental question of our choosing. Our group decided to ask: 
