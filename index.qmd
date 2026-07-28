@@ -1,11 +1,11 @@
 ---
 title: "Henderson Vo"
 toc: false
-image: images/headshot.jpg
+image: images/hv_headshot.jpg
 about:
   template: trestles
   image-shape: rounded
-  image-width: 20em
+  image-width: 18em
   links: 
     - icon: github
       text: GitHub
@@ -28,8 +28,8 @@ My name is Henderson and I'm happy you're here! This website is meant to act as 
 
 I am currently studying at UC Santa Barbara to earn my bachelor's in Environmental Studies and Statistics & Data Science.
 
-In September 2025, I joined the [Bren-Environmental Studies Fellows](https://bren.ucsb.edu/undergrad-mentoring/bren-es-fellows-program/bren-es-fellows/henderson-vo) program. I also worked in Dr. Kelly Caylor's [Water, Vegetation, & Society (WAVES) Lab](https://www.waveslab.org/) in the Bren School of Environmental Science and Management. 
+In September 2025, I joined the [Bren-Environmental Studies Fellows](https://bren.ucsb.edu/undergrad-mentoring/bren-es-fellows-program/bren-es-fellows/henderson-vo) program. I also worked in Dr. Kelly Caylor's [Water, Vegetation, & Society (WAVES) Lab](https://www.waveslab.org/) in the Bren School of Environmental Science and Management.
 
-In June 2026, I will be joining the [Bren Environmental Leadership Fellows](https://bren.ucsb.edu/undergrad-mentoring/bren-environmental-leadership-bel-program) working in the [Tague Team Lab](https://tagueteamlab.org/). Additionally, I will be working as an Arnhold Environmental Fellow in the [emLab](https://emlab.ucsb.edu/).
+In June 2026, I joined the [Bren Environmental Leadership Fellows](https://bren.ucsb.edu/undergrad-mentoring/bren-environmental-leadership-bel-program) working in the [Tague Team Lab](https://tagueteamlab.org/). Additionally, I work as an Arnhold Environmental Fellow in the [emLab](https://emlab.ucsb.edu/).
 
 My research interests involve climate change, terrestrial ecology, and ecosystem resilience. If you would like to connect, feel free to reach out via email.
