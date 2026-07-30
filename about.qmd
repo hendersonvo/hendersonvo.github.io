@@ -12,9 +12,9 @@ format:
     fig-align: center
 ---
 
-Hi! My name is Henderson and I am a third-year undergraduate at UC Santa Barbara studying Environmental Studies and Statistics & Data Science. I'm interested in leveraging data science tools to investigate climate change impacts across environmental systems.
+Hi! My name is Henderson and I am a fourth-year undergraduate at UC Santa Barbara studying Environmental Studies and Statistics & Data Science. I'm interested in leveraging data science tools to investigate climate change impacts across environmental systems.
 
-Throughout my undergraduate career, I've had the opportunities to both conduct my own independent research projects as well as assist on long-term research in a faculty lab. I hope to continue doing research as I progress in my career, and so I plan on pursuing graduate school after I complete my bachelor's degree, ideally PhD programs in environmental science or ecology.
+Throughout my undergraduate career, I've had the opportunities to both conduct my own independent research projects as well as assist on long-term research in a faculty lab. I hope to continue doing research as I progress in my career, and so I plan on pursuing graduate school after I complete my bachelor's degree, notably PhD programs in environmental science or ecology.
 
 Outside of my career, I hope to be able to travel much more. My goal is to have visited all seven continents! My latest trip was to New Orleans, LA which I visited for Spring Break 2026.
 
@@ -49,6 +49,3 @@ I've also had the privilege of travelling across California and abroad. Since st
 ![Depressions Beach, Isla Vista. January 23, 2026](images/sunset.jpg){width="90%" fig-align="right"}
 :::
 :::::
-
-
-
