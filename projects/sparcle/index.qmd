@@ -7,14 +7,18 @@ image: sparcle_thumbnail.png
 lightbox: 
   css-class: "styles"
 categories: 
+  - GIS
+  - R/RStudio
+  - Modeling and Simulation
+  - Conservation
 ---
 
 *In progress.*
 
-During this 12-week fellowship, I researched human-elephant conflict and landscape connectivity in the Kavango-Zambezi Transfrontier Conservation Area (KAZA TFCA). 
+During this 12-week fellowship, I researched human-elephant conflict and landscape connectivity in the Kavango-Zambezi Transfrontier Conservation Area (KAZA TFCA).
 
-Wildlife corridors are common in conservation planning to increase connectivity between core areas, which benefits elephants (and other animals) by increasing access to resources and improving gene flow throughout the population. However, corridors cannot be placed arbitrarily and must take into consideration the existing movement patterns of elephants in order to be effective. Ideally, corridors can be used to mitigate conflict between people and elephants, but the effectiveness of this is not well understood and hinges on our understanding of how connectivity relates to conflict. 
+Wildlife corridors are common in conservation planning to increase connectivity between core areas, which benefits elephants (and other animals) by increasing access to resources and improving gene flow throughout the population. However, corridors cannot be placed arbitrarily and must take into consideration the existing movement patterns of elephants in order to be effective. Ideally, corridors can be used to mitigate conflict between people and elephants, but the effectiveness of this is not well understood and hinges on our understanding of how connectivity relates to conflict.
 
-To understand how elephant movements are guided by the landscape, I use GPS data, statistical modeling, and mapping tools to identify important pathways and barriers to movement. There is also work to be done to understand the spatial relationship between landscape connectivity and instances of conflict, as well as the effect of ecological restoration on connectivity. 
+To understand how elephant movements are guided by the landscape, I use GPS data, statistical modeling, and mapping tools to identify important pathways and barriers to movement. There is also work to be done to understand the spatial relationship between landscape connectivity and instances of conflict, as well as the effect of ecological restoration on connectivity.
 
 Learn more about the project [here](https://emlab.ucsb.edu/projects/spatial-planning-climate-change-land-use-conservation-agriculture-and-energy).
