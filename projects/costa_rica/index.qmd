@@ -3,6 +3,7 @@ title: "Wildlife Conservation in Costa Rica"
 description: An analysis of weather effects on arribada frequency
 date: 2025-08-18
 format: html
+toc: false
 image: cr_thumbnail.JPG
 lightbox: 
   css-class: "styles"
@@ -31,6 +32,6 @@ In August 2025, I had the most fortunate opportunity to take a field course in P
 
 I concluded my work by writing a final report on my own research question relating to Olive ridley nesting. Thinking like a climate scientist, I wondered how different weather conditions might affect the frequency of arribada nesting events, which are an evolutionary response to predation meant to increase recruitment.
 
-You can read about my findings [here](turtle_paper.pdf).
+You can read about my findings [here](safety_in_numbers_final.pdf).
 
-![](turtle_paper.pdf){width="100%" height="700px"}
+![](safety_in_numbers_final.pdf){width="100%" height="700px"}
