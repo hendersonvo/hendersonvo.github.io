@@ -270,7 +270,7 @@
     "href": "projects/bel_2026/index.html",
     "title": "Modeling Outcomes of Community Forestry in India",
     "section": "",
-    "text": "In progress.\nThe history of community forestry in India is longstanding, yet today approximately 97% of forests in India are managed by the government. Understanding the ecology of different management strategies could inform new ways of managing forests, especially in the age of climate change."
+    "text": "In progress.\nThe history of community forestry in India is longstanding, yet today approximately 97% of forests in India are managed by the government. Understanding the ecology of different management strategies could inform new ways of managing forests, especially in the age of climate change.\nThis is where computational modeling approaches become useful. We can simulate the actions of different management strategies (e.g. a community extracts firewood → removing biomass from a system) under different climate scenarios and take note of the responses we see in carbon and water dynamics. We aim to use RHESSys to do this kind of modeling work.\n\nBren Environmental Leadership (BEL) Fellowship\nBut before we model anything, we need to narrow down which areas we want to study. RHESSys performs at the plot to catchment scale, so we need to decide which watersheds will make the cut, and also articulate why we think these watersheds are interesting.\nThis was the point I addressed during my summer in the BEL Fellowship Program. We ultimately selected 9 watersheds based on variables like forest cover, precipitation, temperature, and elevation. On top of that, we identified 30 environmental datasets related to climate, hydrology, vegetation, and soil to input into RHESSys for future modeling.\nIn the end, I had the opportunity to recap my 10-week summer in 5 minutes at the Summer@Bren Flash Talks.\n[I’ll embed a video of my flash talk soon!]"
   },
   {
     "objectID": "projects/envs154_storymap/index.html",
@@ -292,5 +292,12 @@
     "title": "Spatial Planning for Conservation",
     "section": "",
     "text": "In progress.\nDuring this 12-week fellowship, I researched human-elephant conflict and landscape connectivity in the Kavango-Zambezi Transfrontier Conservation Area (KAZA TFCA).\nWildlife corridors are common in conservation planning to increase connectivity between core areas, which benefits elephants (and other animals) by increasing access to resources and improving gene flow throughout the population. However, corridors cannot be placed arbitrarily and must take into consideration the existing movement patterns of elephants in order to be effective. Ideally, corridors can be used to mitigate conflict between people and elephants, but the effectiveness of this is not well understood and hinges on our understanding of how connectivity relates to conflict.\nTo understand how elephant movements are guided by the landscape, I use GPS data, statistical modelling, and mapping tools to identify important pathways and barriers to movement. There is also work to be done to understand the spatial relationship between landscape connectivity and instances of conflict, as well as the effect of ecological restoration on landscape connectivity.\nLearn more about the project here."
+  },
+  {
+    "objectID": "projects/bel_2026/index.html#bren-environmental-leadership-bel-fellowship",
+    "href": "projects/bel_2026/index.html#bren-environmental-leadership-bel-fellowship",
+    "title": "Modeling Outcomes of Community Forestry in India",
+    "section": "Bren Environmental Leadership (BEL) Fellowship",
+    "text": "Bren Environmental Leadership (BEL) Fellowship\nBut before we model anything, we need to narrow down which areas we want to study. RHESSys performs at the plot to catchment scale, so we need to decide which watersheds will make the cut, and also articulate why we think these watersheds are interesting.\nThis was the point I addressed during my summer in the BEL Fellowship Program."
   }
 ]
