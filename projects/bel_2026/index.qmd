@@ -13,7 +13,7 @@ categories:
 
 The history of community forestry in India is longstanding, yet today approximately [97% of forests in India are managed by the government](https://landconservationnetwork.org/wp-content/uploads/2022/09/India20Country20Profile20on20Privately20Protected20Areas_7_24_2019-1.pdf). Understanding the ecology of different management strategies could inform new ways of managing forests, especially in the age of climate change.
 
-This is where computational modeling approaches become useful. We can simulate the actions of different management strategies (e.g. a community extracts firewood → removing biomass from a system) under different climate scenarios and take note of the responses we see in carbon and water dynamics. We aim to use [RHESSys](https://rhessys.github.io/) to do this kind of modeling work. 
+This is where computational modeling approaches become useful. We can simulate the actions of different management strategies (e.g. a community extracts firewood → removing biomass from a system) under different climate scenarios and take note of the responses we see in water and carbon dynamics. We aim to use [RHESSys](https://rhessys.github.io/) to do this kind of modeling work. 
 
 #### Bren Environmental Leadership (BEL) Fellowship
 
