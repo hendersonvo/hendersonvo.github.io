@@ -7,6 +7,10 @@ image: forest.jpg
 lightbox: 
   css-class: "styles"
 categories: 
+  - GIS
+  - R/RStudio
+  - Modeling and Simulation
+  - Ecohydrology
 ---
 
 *In progress.*
