@@ -5,7 +5,7 @@ lightbox:
   css-class: "styles"
 ---
 
-Updated July 2026. [View](CV_Henderson_Vo.pdf)
+Updated September 2026. [View](CV_Henderson_Vo.pdf)
 
 ------------------------------------------------------------------------
 
